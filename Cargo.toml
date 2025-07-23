@@ -10,5 +10,6 @@ crate-type = ["cdylib"]
 
 [dependencies]
 bitvec = "1.0.1"
+numpy = "0.25.0"
 pyo3 = "0.25.0"
 rayon = "1.10.0"
